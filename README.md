@@ -92,15 +92,7 @@ Findings:
 
 ---
 
-## 📁 Project Structure
 
-.
-├── data/                  
-├── outputs/               
-├── notebook.ipynb         
-└── README.md
-
----
 
 ## 📈 Key Learnings
 
